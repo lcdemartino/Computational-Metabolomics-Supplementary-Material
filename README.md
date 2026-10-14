@@ -1,4 +1,4 @@
-# AI-for-Metabolomics-Supplementary-Material
+# Computational-Metabolomics-Supplementary-Material
 Supplementary material associated with the PhD thesis "Enhancing Metabolite Annotation, Integrative Omics Analysis, and AI-Assisted Interpretation in Computational Metabolomics".
 
 **Enhancing Metabolite Annotation, Integrative Omics Analysis, and AI-Assisted Interpretation in Computational Metabolomics**  
